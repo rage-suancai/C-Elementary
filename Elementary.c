@@ -163,13 +163,13 @@ void test5_0() {
 	arr[1] = 999;
 	printf("%d", arr[1]);*/
 
-	/*int arr[10];
+	int arr[10];
 	for (int i = 0; i < 10; ++i) {
 		printf("%d, ", arr[i]);
-	}*/
+	}
 
-	int arr[] = {111, 222, 333};
-	printf("%d", arr[3]);
+	/*int arr[] = {111, 222, 333};
+	printf("%d", arr[3]);*/
 
 }
 
