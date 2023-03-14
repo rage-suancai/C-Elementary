@@ -36,5 +36,3 @@
 
                         printf("%d", result);
                     }
-
-
